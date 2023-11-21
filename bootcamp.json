@@ -1,142 +1,144 @@
-[
-  {
-    "bootcampName": "Mobile App Development",
-    "bootcampDescription": "Build mobile applications for iOS and Android platforms using Swift and Kotlin.",
-    "startDate": "2023-11-01",
-    "endDate": "2023-12-06",
-    "coverImage": "R.drawable.cover_mobile"
-  },
-  {
-    "bootcampName": "Cloud Computing Essentials",
-    "bootcampDescription": "Explore cloud computing platforms and services such as AWS and Azure.",
-    "startDate": "2024-01-10",
-    "endDate": "2024-02-15",
-    "coverImage": "R.drawable.cover_cloud"
-  },
-  {
-    "bootcampName": "Python for Data Analysis",
-    "bootcampDescription": "Learn Python programming specifically for data analysis and visualization.",
-    "startDate": "2024-03-01",
-    "endDate": "2024-04-05",
-    "coverImage": "R.drawable.cover_python"
-  },
-  {
-    "bootcampName": "Internet of Things (IoT) Workshop",
-    "bootcampDescription": "Dive into the world of IoT, connecting devices and creating smart applications.",
-    "startDate": "2024-05-15",
-    "endDate": "2024-06-20",
-    "coverImage": "R.drawable.cover_iot"
-  },
-  {
-    "bootcampName": "Full Stack Web Development",
-    "bootcampDescription": "Master both frontend and backend development for building complete web applications.",
-    "startDate": "2023-07-03",
-    "endDate": "2023-08-08",
-    "coverImage": "R.drawable.cover_web"
-  },
-  {
-    "bootcampName": "Machine Learning Algorithms",
-    "bootcampDescription": "Explore advanced machine learning algorithms and their applications.",
-    "startDate": "2024-09-01",
-    "endDate": "2024-10-06",
-    "coverImage": "R.drawable.cover_mesinler"
-  },
-  {
-    "bootcampName": "DevOps Practices",
-    "bootcampDescription": "Learn the principles of DevOps and tools for continuous integration and deployment.",
-    "startDate": "2024-11-01",
-    "endDate": "2024-12-06",
-    "coverImage": "R.drawable.cover_devops"
-  },
-  {
-    "bootcampName": "Game Development Fundamentals",
-    "bootcampDescription": "Create interactive games and explore game development concepts.",
-    "startDate": "2024-01-10",
-    "endDate": "2024-02-15",
-    "coverImage": "R.drawable.cover_gamedev"
-  },
-  {
-    "bootcampName": "Blockchain Basics",
-    "bootcampDescription": "Understand the fundamentals of blockchain technology and cryptocurrency.",
-    "startDate": "2023-03-01",
-    "endDate": "2023-04-05",
-    "coverImage": "R.drawable.cover_blockchain"
-  },
-  {
-    "bootcampName": "Artificial Intelligence Ethics",
-    "bootcampDescription": "Discuss ethical considerations in artificial intelligence development and deployment.",
-    "startDate": "2024-05-15",
-    "endDate": "2024-06-20",
-    "coverImage": "R.drawable.cover_ai"
-  },
-  {
-    "bootcampName": "Quantum Computing Intro",
-    "bootcampDescription": "Explore the basics of quantum computing and its potential applications.",
-    "startDate": "2023-07-03",
-    "endDate": "2023-08-08",
-    "coverImage": "R.drawable.cover_quantum"
-  },
-  {
-    "bootcampName": "Flutter App Development",
-    "bootcampDescription": "Build cross-platform mobile apps using the Flutter framework.",
-    "startDate": "2025-09-01",
-    "endDate": "2025-10-06",
-    "coverImage": "R.drawable.cover_flutter"
-  },
-  {
-    "bootcampName": "Natural Language Processing (NLP)",
-    "bootcampDescription": "Dive into the field of NLP and learn how to process and analyze human language.",
-    "startDate": "2025-11-01",
-    "endDate": "2025-12-06",
-    "coverImage": "R.drawable.cover_nlp"
-  },
-  {
-    "bootcampName": "AR/VR Development",
-    "bootcampDescription": "Create immersive experiences with augmented and virtual reality technologies.",
-    "startDate": "2024-11-01",
-    "endDate": "2024-12-06",
-    "coverImage": "R.drawable.cover_ar"
-  },
-  {
-    "bootcampName": "Kubernetes and Containerization",
-    "bootcampDescription": "Explore containerization with Docker and orchestration with Kubernetes.",
-    "startDate": "2023-03-01",
-    "endDate": "2023-04-05",
-    "coverImage": "R.drawable.cover_kubernetes"
-  },
-  {
-    "bootcampName": "Introduction to Programming",
-    "bootcampDescription": "Learn the basics of programming with hands-on exercises and projects.",
-    "startDate": "2023-01-10",
-    "endDate": "2023-02-15",
-    "coverImage": "R.drawable.cover_program"
-  },
-  {
-    "bootcampName": "Data Science Fundamentals",
-    "bootcampDescription": "Dive into the world of data science, covering statistical analysis and machine learning.",
-    "startDate": "2023-03-01",
-    "endDate": "2023-04-05",
-    "coverImage": "R.drawable.cover_datasc"
-  },
-  {
-    "bootcampName": "Cybersecurity Essentials",
-    "bootcampDescription": "Learn the fundamentals of cybersecurity, including network security and ethical hacking.",
-    "startDate": "2023-05-15",
-    "endDate": "2023-06-20",
-    "coverImage": "R.drawable.cover_cyber"
-  },
-  {
-    "bootcampName": "Web Development Crash Course",
-    "bootcampDescription": "Build responsive and dynamic websites from scratch using HTML, CSS, and JavaScript.",
-    "startDate": "2024-05-15",
-    "endDate": "2024-06-20",
-    "coverImage": "R.drawable.cover_web2"
-  },
-  {
-    "bootcampName": "UX/UI Design Workshop",
-    "bootcampDescription": "Explore user experience and user interface design principles through practical design projects.",
-    "startDate": "2023-09-01",
-    "endDate": "2023-10-06",
-    "coverImage": "R.drawable.cover_uiux"
-  }
-]
+{
+  "result": [
+    {
+      "bootcampName": "Mobile App Development",
+      "bootcampDescription": "Build mobile applications for iOS and Android platforms using Swift and Kotlin.",
+      "startDate": "2023-11-01",
+      "endDate": "2023-12-06",
+      "coverImage": "R.drawable.cover_mobile"
+    },
+    {
+      "bootcampName": "Cloud Computing Essentials",
+      "bootcampDescription": "Explore cloud computing platforms and services such as AWS and Azure.",
+      "startDate": "2024-01-10",
+      "endDate": "2024-02-15",
+      "coverImage": "R.drawable.cover_cloud"
+    },
+    {
+      "bootcampName": "Python for Data Analysis",
+      "bootcampDescription": "Learn Python programming specifically for data analysis and visualization.",
+      "startDate": "2024-03-01",
+      "endDate": "2024-04-05",
+      "coverImage": "R.drawable.cover_python"
+    },
+    {
+      "bootcampName": "Internet of Things (IoT) Workshop",
+      "bootcampDescription": "Dive into the world of IoT, connecting devices and creating smart applications.",
+      "startDate": "2024-05-15",
+      "endDate": "2024-06-20",
+      "coverImage": "R.drawable.cover_iot"
+    },
+    {
+      "bootcampName": "Full Stack Web Development",
+      "bootcampDescription": "Master both frontend and backend development for building complete web applications.",
+      "startDate": "2023-07-03",
+      "endDate": "2023-08-08",
+      "coverImage": "R.drawable.cover_web"
+    },
+    {
+      "bootcampName": "Machine Learning Algorithms",
+      "bootcampDescription": "Explore advanced machine learning algorithms and their applications.",
+      "startDate": "2024-09-01",
+      "endDate": "2024-10-06",
+      "coverImage": "R.drawable.cover_mesinler"
+    },
+    {
+      "bootcampName": "DevOps Practices",
+      "bootcampDescription": "Learn the principles of DevOps and tools for continuous integration and deployment.",
+      "startDate": "2024-11-01",
+      "endDate": "2024-12-06",
+      "coverImage": "R.drawable.cover_devops"
+    },
+    {
+      "bootcampName": "Game Development Fundamentals",
+      "bootcampDescription": "Create interactive games and explore game development concepts.",
+      "startDate": "2024-01-10",
+      "endDate": "2024-02-15",
+      "coverImage": "R.drawable.cover_gamedev"
+    },
+    {
+      "bootcampName": "Blockchain Basics",
+      "bootcampDescription": "Understand the fundamentals of blockchain technology and cryptocurrency.",
+      "startDate": "2023-03-01",
+      "endDate": "2023-04-05",
+      "coverImage": "R.drawable.cover_blockchain"
+    },
+    {
+      "bootcampName": "Artificial Intelligence Ethics",
+      "bootcampDescription": "Discuss ethical considerations in artificial intelligence development and deployment.",
+      "startDate": "2024-05-15",
+      "endDate": "2024-06-20",
+      "coverImage": "R.drawable.cover_ai"
+    },
+    {
+      "bootcampName": "Quantum Computing Intro",
+      "bootcampDescription": "Explore the basics of quantum computing and its potential applications.",
+      "startDate": "2023-07-03",
+      "endDate": "2023-08-08",
+      "coverImage": "R.drawable.cover_quantum"
+    },
+    {
+      "bootcampName": "Flutter App Development",
+      "bootcampDescription": "Build cross-platform mobile apps using the Flutter framework.",
+      "startDate": "2025-09-01",
+      "endDate": "2025-10-06",
+      "coverImage": "R.drawable.cover_flutter"
+    },
+    {
+      "bootcampName": "Natural Language Processing (NLP)",
+      "bootcampDescription": "Dive into the field of NLP and learn how to process and analyze human language.",
+      "startDate": "2025-11-01",
+      "endDate": "2025-12-06",
+      "coverImage": "R.drawable.cover_nlp"
+    },
+    {
+      "bootcampName": "AR/VR Development",
+      "bootcampDescription": "Create immersive experiences with augmented and virtual reality technologies.",
+      "startDate": "2024-11-01",
+      "endDate": "2024-12-06",
+      "coverImage": "R.drawable.cover_ar"
+    },
+    {
+      "bootcampName": "Kubernetes and Containerization",
+      "bootcampDescription": "Explore containerization with Docker and orchestration with Kubernetes.",
+      "startDate": "2023-03-01",
+      "endDate": "2023-04-05",
+      "coverImage": "R.drawable.cover_kubernetes"
+    },
+    {
+      "bootcampName": "Introduction to Programming",
+      "bootcampDescription": "Learn the basics of programming with hands-on exercises and projects.",
+      "startDate": "2023-01-10",
+      "endDate": "2023-02-15",
+      "coverImage": "R.drawable.cover_program"
+    },
+    {
+      "bootcampName": "Data Science Fundamentals",
+      "bootcampDescription": "Dive into the world of data science, covering statistical analysis and machine learning.",
+      "startDate": "2023-03-01",
+      "endDate": "2023-04-05",
+      "coverImage": "R.drawable.cover_datasc"
+    },
+    {
+      "bootcampName": "Cybersecurity Essentials",
+      "bootcampDescription": "Learn the fundamentals of cybersecurity, including network security and ethical hacking.",
+      "startDate": "2023-05-15",
+      "endDate": "2023-06-20",
+      "coverImage": "R.drawable.cover_cyber"
+    },
+    {
+      "bootcampName": "Web Development Crash Course",
+      "bootcampDescription": "Build responsive and dynamic websites from scratch using HTML, CSS, and JavaScript.",
+      "startDate": "2024-05-15",
+      "endDate": "2024-06-20",
+      "coverImage": "R.drawable.cover_web2"
+    },
+    {
+      "bootcampName": "UX/UI Design Workshop",
+      "bootcampDescription": "Explore user experience and user interface design principles through practical design projects.",
+      "startDate": "2023-09-01",
+      "endDate": "2023-10-06",
+      "coverImage": "R.drawable.cover_uiux"
+    }
+  ]
+}
